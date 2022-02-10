@@ -4,6 +4,7 @@
 *.VC.db
 x64/
 ipch/
+Debug/
 
 # Prerequisites
 *.d
