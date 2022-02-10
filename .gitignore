@@ -3,6 +3,7 @@
 *.VC.VC.opendb
 *.VC.db
 x64/
+ipch/
 
 # Prerequisites
 *.d
