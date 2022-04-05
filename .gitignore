@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 # VS
 *.VC.db
 *.vcxproj.user
 *.vs
+=======
+# Vs
+*.vs
+*.VC.VC.opendb
+*.VC.db
+x64/
+ipch/
+Debug/
+*.user
+*.filters
+>>>>>>> acc1c0e571daf0b1199eec283d50e7654f4abfbc
 
 # Prerequisites
 *.d
